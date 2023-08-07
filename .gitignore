@@ -1,1 +1,4 @@
 /venv
+/vendor
+.env
+.env.example
