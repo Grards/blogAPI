@@ -2,8 +2,9 @@
     use Bramus\Router\Router;
 
     require_once './vendor/autoload.php';
-    require_once './app/controllers/home.php';
     require_once 'defines.php';
+    
+    require_once './app/controllers/home.php';
 
     $home = new Home();
     $router = new Router();

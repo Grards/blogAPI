@@ -2,7 +2,7 @@
     class Home {
 
         public function home(){
-
+            
         }
     }
 ?>

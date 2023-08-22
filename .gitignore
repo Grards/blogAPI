@@ -1,4 +1,5 @@
 /venv
 /vendor
+/app/vendor
 .env
 .env.example
